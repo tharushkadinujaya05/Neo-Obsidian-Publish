@@ -1,7 +1,8 @@
 ---
 Creation Date : 2024:09:08 03:46
-Tags : CYBVU,SE101.3-23.2-GB-Y1S2
+tags : CYBVU,SE101.3-23.2-GB-Y1S2
 ---
+[Click Here to get the Lecture Slides](https://nsbm365-my.sharepoint.com/:b:/g/personal/dtdkumara_students_nsbm_ac_lk/EUgOraOL6gxBrrQ3hESzg_kBJ9rjXKNucoMH2U9SxL8mcw?e=qenJt3)
 ### What is JavaScript?
 - JavaScript is a interpreted language
 - commonly used to create dynamic and interactive web pages
@@ -284,9 +285,9 @@ int age = 20;
 boolean hasID = true;
 
 if (age >= 18 && hasID) {
-    System.out.println("You can enter.");
+    console.log("You can enter.");
 } else {
-    System.out.println("Access denied.");
+    console.log("Access denied.");
 }
 // Output: You can enter.
 ```
@@ -298,9 +299,9 @@ int age = 16;
 boolean hasPermission = true;
 
 if (age >= 18 || hasPermission) {
-    System.out.println("You can enter.");
+    console.log("You can enter.");
 } else {
-    System.out.println("Access denied.");
+    console.log("Access denied.");
 }
 // Output: You can enter.
 ```
@@ -311,9 +312,9 @@ if (age >= 18 || hasPermission) {
 boolean isLoggedIn = false;
 
 if (!isLoggedIn) { // This checks if isLoggedIn is false
-    System.out.println("You need to log in.");
+    console.log("You need to log in.");
 } else {
-    System.out.println("Welcome back!");
+    console.log("Welcome back!");
 }
 ```
 In the code example, when we use !isLoggedIn, we are checking if the user **is NOT logged in**. If the user is not logged in (meaning isLoggedIn is false), !isLoggedIn will be true, and the first message will print.
@@ -377,3 +378,6 @@ let newWindow = window.open("https://www.example.com", "exampleWindow", "width=8
 • "URL": The URL of the page to open.
 • "windowName": The name of the new window. If a window with this name already exists, it will be reused.
 • "features": A comma-separated list of window features (e.g., width, height, scrollbars, etc.).
+
+#### *Next [[JavaScript Pt. 2]]*
+all the answers from this Pt.1 section are up on GitHub. Here’s the link: . [Check it out!](https://github.com/tharushkadinujaya05/CodeBook/tree/main/CYBVU%2023.2/Spring%2024'%20Y1S2/Web%20Application%20Development/JavaScript%20Pt.%201)
