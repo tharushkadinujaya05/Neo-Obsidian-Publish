@@ -19,4 +19,5 @@ Nlearn Link : https://nlearn.nsbm.ac.lk/course/view.php?id=10870
 [[All CSS Concepts at once (module related)]]
 
 # JavaScript
-[[Essential JavaScript Concepts for This Module]]
+1. [[Essential JavaScript Concepts for This Module Pt.1]]
+2. [[JavaScript Pt. 2]]
