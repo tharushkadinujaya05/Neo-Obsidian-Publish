@@ -14,13 +14,13 @@ PHP (Hypertext Preprocessor) is a popular server-side scripting language designe
 
 ---
 
-#### How PHP Works?
+### How PHP Works?
 ![[Assets/Pasted image 20240914223132.png]]
 When a web browser requests a PHP page from the server, the server calls up the PHP parser. The parser executes all the PHP script instructions on the page and returns the file to the browser as plain HTML.During this process the PHP parser may also retrieve information from a database.
 
 ---
 
-#### How to DEVELOP and run PHP web pages.
+### How to DEVELOP and run PHP web pages.
 
 three main components are needed:
 - **Web Server** : PHP will work with many of the Web Servers such as IIS. But is most often used with the freely available Apache server.
@@ -29,7 +29,7 @@ three main components are needed:
 
 ---
 
-#### PHP Syntax Example
+### PHP Syntax Example
 ```php
 <?php
 	echo "My first PHP script!";
@@ -37,13 +37,13 @@ three main components are needed:
 ```
 
 ---
-#### PHP Comments 
+### PHP Comments 
 As same as every language have comments, PHP have comments too but in a different way. 
 - **Single line comments** (`//` or `#`)
 - **Multi line comments** (`/* comment goes here */`)
 
 ---
-#### Variables in PHP
+### Variables in PHP
 - **Declaration**: Variables in PHP start with a dollar sign ($) followed by the variable name, such as $variableName.
 - **Assignment**: You assign a value to a variable using the equals sign (=), for example, $age = 25;.
 - **Data Types**: PHP variables can hold different types of data, including integers, floats, strings, arrays, and objects. PHP is loosely typed, so the type is **determined at runtime**
@@ -54,7 +54,7 @@ As same as every language have comments, PHP have comments too but in a differen
 - Variable names are case-sensitive ($age and $AGE are two different variables)
 
 ---
-#### Variable Types
+### Variable Types
 • **String**: A sequence of characters, e.g., "Hello, World!".
 • **Integer**: Whole numbers, e.g., 42.
 • **Float**: Floating-point numbers (decimal values), e.g., 3.14.
@@ -64,7 +64,7 @@ As same as every language have comments, PHP have comments too but in a differen
 • **NULL**: Represents a variable with no value, e.g., null.
 • **Resource**: A special variable holding a reference to an external resource, such as a file or database connection
 
-##### Examples 
+#### Examples 
 ```php
 <?php
 // String
@@ -116,7 +116,7 @@ fclose($file);
 ```
 
 ---
-#### Activity using Variables
+### Activity using Variables
 Write down a sentence to display your name, university and age. Declare three variables.
 
 Output : My name is `Janish De Silva`. I'm an undergraduate of `NSBM Green University`.I'm `16` years old.
@@ -146,7 +146,7 @@ literally same as other languages, nothing special :D
 | `**`     | Exponentiation (power)              | `$power = 2 ** 3;` | `8`    |
 
 ---
-#### PHP conditional statements 
+### PHP conditional statements 
 - **if statement** - executes some code if one condition is true
 ```php
 <?php
@@ -206,7 +206,7 @@ switch ($language) {
 ```
 
 ---
-#### PHP Arrays
+### PHP Arrays
 Arrays in PHP are used to store multiple values in a single variable. They can be indexed (numeric) or associative, depending on how you want to access the values.
 ```php
 <?php
@@ -221,14 +221,14 @@ echo $fruits[2]; // Outputs: Cherry
 ```
 
 ---
-#### PHP Loops
+### PHP Loops
 - **while loops** : through a block of code as long as the specified condition is true
 -  **do...while** : loops through a block of code once, and then repeats the loop as long as the specified condition is true
 -  **for...loops** : through a block of code a specified number of times
 - **foreach** : oops through a block of code for each element in an array.
 
 ---
-#### Functions in PHP
+### Functions in PHP
 In PHP, a **function** is a block of code that performs a specific task. Functions help to organize code, reuse it, and make the program more modular.
 
 > [!NOTE]
@@ -253,15 +253,15 @@ greet(); // Outputs: Hello, World!
 ?>
 ```
 
-##### Function Arguments
+#### Function Arguments
 In PHP, **function arguments** (also called parameters) are values passed to a function when it is called. These values allow the function to operate on specific data.
 
-###### How Function Arguments Work
+##### How Function Arguments Work
 
 • **Parameters** are specified within the parentheses when defining a function.
 • **Arguments** are the actual values you pass to the function when calling it.
 
-###### Example with one argument
+##### Example with one argument
 ```php
 <?php
 // Defining a function with one parameter
@@ -274,7 +274,7 @@ greet("Alice"); // Outputs: Hello, Alice!
 ?>
 ```
 
-###### Functions with Return Values
+##### Functions with Return Values
 ```php
 <?php
 // Defining a function with two parameters
@@ -288,7 +288,7 @@ echo $result; // Outputs: 12
 ?>
 ```
 
-###### Functions with Default argument value
+##### Functions with Default argument value
 ```php
 <?php
 function setweight($minweight = 50)
@@ -307,7 +307,7 @@ setweight();
 	- `setweight();`: The function is called without any argument, so the default value of 50 is used, and it outputs: The weight is : 50
 
 ---
-#### Activity about PHP Functions
+### Activity about PHP Functions
 1. In a shop, there are 5 apples. The price of an apple is 100 rupees.Write a PHP script using functions to calculate and display the total value of the apples in the shop.
 
 ```php

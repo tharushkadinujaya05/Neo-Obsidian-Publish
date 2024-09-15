@@ -53,7 +53,7 @@ if (grade >= 90) {
 ```
 
 ---
-## Activities 
+### Activities 
 #### Activity 01
 Write a JavaScript code snippet to display a message based on the current students' marks,*If the marks is above 40, display “Pass the Exam!".Assume that the current student mark is 60.*
 ```js
@@ -237,7 +237,7 @@ greet("Alice"); // Prints "Hello, Alice!"
 
 ----
 
-## Activities 
+### Activities 
 #### Activity 06
 ![[Assets/Pasted image 20240910183658.png]]
 ```js
