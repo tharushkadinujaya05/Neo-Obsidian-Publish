@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer>
-        <p>neospace©2024</p>
+        <p>NeoSpace©2024 🐉</p>
       </footer>
     )
   }
