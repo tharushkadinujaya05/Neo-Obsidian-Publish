@@ -69,7 +69,7 @@ You're developing a weather application. Write a JavaScript code snippet to disp
 ***If the temperature is above 20 degrees Celsius, display "It's a warm day!". Otherwise, display "It's a cool day!“.*** Take the current temperature from the user as an input.
 
 The output should be as below.
-![[Pasted image 20240910141300.png]]
+![[Assets/Pasted image 20240910141300.png]]
 
 ```js
 let temp = window.prompt("Enter the current temp in celcius : ")
@@ -239,7 +239,7 @@ greet("Alice"); // Prints "Hello, Alice!"
 
 ## Activities 
 #### Activity 06
-![[Pasted image 20240910183658.png]]
+![[Assets/Pasted image 20240910183658.png]]
 ```js
 <html>
 	<head>

@@ -15,7 +15,7 @@ PHP (Hypertext Preprocessor) is a popular server-side scripting language designe
 ---
 
 #### How PHP Works?
-![[Pasted image 20240914223132.png]]
+![[Assets/Pasted image 20240914223132.png]]
 When a web browser requests a PHP page from the server, the server calls up the PHP parser. The parser executes all the PHP script instructions on the page and returns the file to the browser as plain HTML.During this process the PHP parser may also retrieve information from a database.
 
 ---
