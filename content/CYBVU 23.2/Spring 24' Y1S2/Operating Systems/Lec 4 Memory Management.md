@@ -62,7 +62,7 @@ tags: CYBVU, Y1S2
     - To allow for more processes to be run than fit in memory at once.
 
 *~schematic view of swapping*
-![[Assets/Pasted image 20241002010720.png]]
+![[Assets/Pasted image 20241002010720.png|400]]
 
 ---
 ### Memory Management Techniques
