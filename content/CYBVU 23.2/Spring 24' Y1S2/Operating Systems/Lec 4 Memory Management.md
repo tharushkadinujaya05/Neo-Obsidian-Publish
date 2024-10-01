@@ -78,7 +78,7 @@ tags: CYBVU, Y1S2
     - If the entire program and its data need to be in memory for execution, overlays limit program size.
     - The programmer needs to design the overlay structure, which can be complex.
 
-![[Assets/Pasted image 20241002011232.png]]
+![[Assets/Pasted image 20241002011232.png|500]]
 
 #### Single tasking with Overlay
 - **Main Point:** Uses overlays in a single-tasking environment (only one program runs at a time).
@@ -121,12 +121,12 @@ tags: CYBVU, Y1S2
     
 - **Types:**
     - **Internal Fragmentation:(in FIXED Partitioning)** Wasted space within an allocated partition.    
-    ![[Assets/Pasted image 20241002034902.png]]
+    ![[Assets/Pasted image 20241002034902.png|500]]
     - **External Fragmentation: (in VARIABLE Partitioning)** Wasted space that is too small to allocate to new processes.
 	    
 > [!NOTE] Solution for External Fragmentation
 > **Compaction**, A technique used to resolve external fragmentation by compacting (moving) free space together into larger block.
 
-![[Assets/Pasted image 20241002035155.png]]
+![[Assets/Pasted image 20241002035155.png|500]]
 
 ### Next[[ Lec 5 Virtual Memory Management]] >>>
