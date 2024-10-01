@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:14 00:22
-Tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:14 00:22
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 [Click here to get the Lecture Slides](https://nsbm365-my.sharepoint.com/:b:/g/personal/dtdkumara_students_nsbm_ac_lk/ET8YP8ZhEgRAjwM2-7u8hjwBALjm1PPJwS-V4xPD-8fSXQ?e=3DP0fp)
 ### What is JavaScript Validation?

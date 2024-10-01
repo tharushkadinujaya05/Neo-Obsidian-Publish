@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:14 17:32
-Tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:14 17:32
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 [PHP Pt. 1. Slides](https://nsbm365-my.sharepoint.com/:b:/g/personal/dtdkumara_students_nsbm_ac_lk/ETE_aH78_49BkyQWhjvJQoEBVHnWN7obRcxFQfxKJXRhNA?e=JE6y2c)
 

@@ -1,6 +1,8 @@
 ---
-Creation Date : 2024:09:28 22:50
-Tags : CYBVU
+Creation Date: 2024:09:28 22:50
+tags:
+  - CYBVU
+  - Y1S2
 ---
 ### What is an Operating System?
 - A program which controls the execution of all other programs (applications).

@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:10 
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:10
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 [Click here to get the Lecture Slides](https://nsbm365-my.sharepoint.com/:b:/g/personal/dtdkumara_students_nsbm_ac_lk/EWSt30BpukRKmCK8l2bBjsoB-sT-b_ipHnClt9fd_0OVzA?e=86axHz)
 ### JavaScript Conditional Statements

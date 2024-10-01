@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:08 01:11
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:08 01:11
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 ### Introduction to CSS
 

@@ -1,7 +1,10 @@
 ---
-Creation Date : 2024:09:01 01:22
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
-Nlearn Link : https://nlearn.nsbm.ac.lk/course/view.php?id=10870
+Creation Date: 2024:09:01 01:22
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
+Nlearn Link: https://nlearn.nsbm.ac.lk/course/view.php?id=10870
 ---
 ## Introduction to Web Development 
 1. [[What is the INTERNET?]]

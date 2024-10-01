@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:01 01:29
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:01 01:29
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 ## History of Internet
 

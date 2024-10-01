@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:01 03:57
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:01 03:57
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 ## Static vs Dynamic Pages
 

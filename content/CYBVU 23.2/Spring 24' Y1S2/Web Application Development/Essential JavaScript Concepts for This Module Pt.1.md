@@ -1,6 +1,9 @@
 ---
-Creation Date : 2024:09:08 03:46
-tags : CYBVU,SE101.3-23.2-GB-Y1S2
+Creation Date: 2024:09:08 03:46
+tags:
+  - CYBVU
+  - SE101.3-23.2-GB-Y1S2
+  - Y1S2
 ---
 [Click Here to get the Lecture Slides](https://nsbm365-my.sharepoint.com/:b:/g/personal/dtdkumara_students_nsbm_ac_lk/EUgOraOL6gxBrrQ3hESzg_kBJ9rjXKNucoMH2U9SxL8mcw?e=qenJt3)
 ### What is JavaScript?
