@@ -99,4 +99,4 @@ This type of operating system allows for scalability, redundancy, and resource s
 	- **Telephone Switching**: Makes sure calls are connected without delay.
 	- **Fire and Smoke Sensors**: Quickly alerts people to fire or smoke.
 
-### *Next [[Lec 2 Process Management]] >>*
+### *Next [[Lec 2 Process Management]] >>>*
