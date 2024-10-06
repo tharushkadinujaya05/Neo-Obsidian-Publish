@@ -13,7 +13,7 @@ Feel free to dive into the various sections, explore different topics, and use t
 - [[🔗 Operating Systems]]
 - [[🔗 Data Communications and Networks]]
 
-> [!NOTE] NOTE
+> [!NOTE] NOTE 📢
 > For now, I’ve only covered the topics above. I’ll drop future notes as I finish ‘em!
 
 ## How to Use This Site
