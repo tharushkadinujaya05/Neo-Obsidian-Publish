@@ -191,3 +191,5 @@ A computer system consists of hardware (physical components) and software (progr
     2. **DNS Response:** The DNS server provides the IP address of the web server.
     3. **Web Page Request:** The client sends an HTTP request to the web server at the resolved IP address. 
     4. **Web Page Response:** The web server sends the requested web page content back to the client.
+
+#### *NEXT [[ Lecture 2 - Email Services]] >>>*

@@ -11,6 +11,7 @@ Feel free to dive into the various sections, explore different topics, and use t
 #### Y1S2
 - [[🔗 Web Application Development - CYBVU 23.2]]
 - [[🔗 Operating Systems]]
+- [[🔗 Data Communications and Networks]]
 
 > [!NOTE] NOTE
 > For now, I’ve only covered the topics above. I’ll drop future notes as I finish ‘em!
