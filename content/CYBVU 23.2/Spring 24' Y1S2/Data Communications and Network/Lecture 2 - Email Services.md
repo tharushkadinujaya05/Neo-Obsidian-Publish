@@ -68,4 +68,4 @@ Slides : https://nsbm365-my.sharepoint.com/:f:/g/personal/dtdkumara_students_nsb
     - Hosted on email provider servers.
     - Provides email, calendar, and contact management.
 
-### NEXT [[ Lecture 3 - Data and Signals ]]>>>
+### *NEXT [[ Lecture 3 - Data and Signals ]]>>>*
