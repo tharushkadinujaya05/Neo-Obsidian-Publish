@@ -3,6 +3,34 @@ Creation Date: 2024:10:06 20:03
 tags: CYBVU, Y1S2
 Slides : https://nsbm365-my.sharepoint.com/:f:/g/personal/dtdkumara_students_nsbm_ac_lk/Er9yi9-1cKFHgOvXRE-_LNEBZ2fFuYIjx1q-dKHMX2Up2A?e=lOrEyy
 ---
+### TABLE OF CONTENT
+
+- [Computer?](#computer)
+	- [Computer VS Calculator](#computer-vs-calculator)
+	- [Computer Evolution](#computer-evolution)
+	- [Development with Technology](#development-with-technology)
+	- [Computer System](#computer-system)
+	- [Computer Revolution](#computer-revolution)
+- [Network Applications](#network-applications)
+	- [What is a Computer Network](#what-is-a-computer-network)
+	- [Network != Internet](#network--internet)
+	- [Where Data Communication Fits?](#where-data-communication-fits)
+	- [Network Applications](#network-applications)
+	- [What are network applications](#what-are-network-applications)
+	- [Which Comes First (First Network Applications)](#which-comes-first-first-network-applications)
+- [How do websites work?](#how-do-websites-work)
+	- [Website and Web Access](#website-and-web-access)
+	- [Website?](#website)
+	- [Hosting the site](#hosting-the-site)
+	- [How to access hosted website?](#how-to-access-hosted-website)
+	- [DNS and Domains](#dns-and-domains)
+	- [How You Get a Domain Name](#how-you-get-a-domain-name)
+	- [Now what is the progress?](#now-what-is-the-progress)
+	- [Client Side](#client-side)
+		- [Communication Path](#communication-path)
+	- [What is DNS Resolving](#what-is-dns-resolving)
+	- [Communication](#communication)
+
 ### Computer?
 A computer is a programmable electronic device that can automatically perform arithmetic and logical operations at very high speed and accuracy.
 
