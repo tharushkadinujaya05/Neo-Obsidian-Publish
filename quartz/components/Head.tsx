@@ -8,7 +8,7 @@ export default (() => {
   const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const description =
-      fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
+      "Welcome to Neospace, my personal collection of notes and resources! Dive in to explore everything I’ve gathered so far to help you on your academic journey!"
     const { css, js } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
