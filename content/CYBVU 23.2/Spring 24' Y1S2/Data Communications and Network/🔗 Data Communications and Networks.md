@@ -10,3 +10,4 @@ Slides : https://nsbm365-my.sharepoint.com/:f:/g/personal/dtdkumara_students_nsb
 1. [[Lecture 1 - Introduction]]
 2. [[Lecture 2 - Email Services]]
 3. [[Lecture 3 - Data and Signals]]
+4. [[Lecture 4 - Communication Medium]]
