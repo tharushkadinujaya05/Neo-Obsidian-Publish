@@ -1,5 +1,4 @@
 ---
-Creation Date : {{date:YYYY:MM:DD}} {{time}}
 Tags : CYBVU
 ---
 ### Basics
