@@ -20,7 +20,7 @@ Tags : CYBVU,
 
 ---
 ### Computer Architecture?
-![[Introduction to Computer Architecture 2024-09-23 14.08.37.excalidraw|2000]]
+![[Pasted image 20241014172257.png]]
 - **Computer Organization:** This is the how of the computer. It describes the physical components, their interconnection, and how they work together to execute instructions. Think of it like the blueprints for a house – they detail how the plumbing, electricity, and walls are structured.
     
     - **HOW the ISA is implemented (physical view)**: This refers to the actual hardware design and how it executes the instructions defined in the ISA.
@@ -75,7 +75,7 @@ A data lake in computer science is similar. It's a vast storage repository that 
 - **Pixels:** Images are broken down into tiny squares called pixels(**Pic**ture **El**ements). Each pixel represents a single color. Think of it like a mosaic, where each tiny tile is a pixel.
 - **Resolution:** The number of pixels in an image determines its resolution (e.g., 1020 x 800 pixels). More pixels generally mean a sharper, more detailed image.
 - **Example:** If an image has a resolution of 1020 pixels wide and 800 pixels high (1020 x 800), it has a total of 816,000 pixels.
-![[Pasted image 20240923151205.png]]
+![[Pasted image 20241014172323.png]]
 
 ---
 ### Quick Questions

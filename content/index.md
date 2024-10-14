@@ -6,13 +6,16 @@ Welcome to my personal collection of notes, resources! I've uploaded all the not
 
 Feel free to dive into the various sections, explore different topics, and use these notes as a springboard for your own studies. Whether you’re here to find that one key piece of info or just want to see how someone else is organizing their thoughts, I hope you find this space useful.
 
-## 🔥 Quick Access to Exam Notes:
+## 🔥 Quick Access 
 
 #### Y1S2
 - [[🔗 Web Application Development - CYBVU 23.2]]
 - [[🔗 Operating Systems]]
 - [[🔗 Data Communications and Networks]]
+- [[🔗 Java - CYBVU 23.2]]
+- [[🔗 Computer Architecture - CYBVU 23.2]]
 
+Y1S2 PastPapers : [HERE >>>](https://nsbm365-my.sharepoint.com/:f:/g/personal/dtdkumara_students_nsbm_ac_lk/EnbGmCSPC79GgsFOepp_UDIBqzWl_N3VeVgpIHUqrzOlXg?e=JnGXcG)
 > [!NOTE] NOTE 📢
 > For now, I’ve only covered the topics above. I’ll drop future notes as I finish ‘em!
 
